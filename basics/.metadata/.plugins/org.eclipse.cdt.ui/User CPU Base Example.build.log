@@ -1,0 +1,10 @@
+11:01:27 **** Incremental Build of configuration Debug for project User CPU Base Example ****
+make -j4 all 
+arm-none-eabi-size   User\ CPU\ Base\ Example.elf 
+   text	   data	    bss	    dec	    hex	filename
+  93520	    824	  24368	 118712	  1cfb8	User CPU Base Example.elf
+Finished building: default.size.stdout
+ 
+
+11:01:27 Build Finished. 0 errors, 0 warnings. (took 476ms)
+
